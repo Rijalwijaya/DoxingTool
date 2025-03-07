@@ -67,7 +67,7 @@ def menu():
 def ID():
 	KURO()
 	LOGO()  
-	time.sleep(1)
+	time.sleep(1);
 	Name = raw_input(" Name:\033[1;m ")
 	F_name = raw_input("\033[1;35m First name:\033[1;m ")
 
